@@ -38,7 +38,7 @@ Busco minha **primeira oportunidade de estágio em desenvolvimento**, onde possa
 
 ---
 
-⭐ Perfil em constante evolução, aberto a oportunidades de estágio em tecnologia.## Hi there 👋
+⭐ Perfil em constante evolução, aberto a oportunidades de estágio em tecnologia.##
 
 <!--
 **oseias-rodrigues/oseias-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

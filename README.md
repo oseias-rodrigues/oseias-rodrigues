@@ -1,4 +1,8 @@
-# 👋 Olá, eu sou Oseias Rodrigues
+![GitHub followers](https://img.shields.io/github/followers/oseias-rodrigues?label=Follow&style=social)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)# 👋 Olá, eu sou Oseias Rodrigues
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (1º semestre)**  
 💻 Focado em **Desenvolvimento de Software**  
@@ -29,7 +33,14 @@ Busco minha **primeira oportunidade de estágio em desenvolvimento**, onde possa
 - Exercícios de lógica de programação  
 - Projetos iniciais em Python  
 - Projetos em HTML, CSS e JavaScript  
-- Estudos voltados para desenvolvimento de sistemas  
+- Estudos voltados para desenvolvimento de sistemas
+
+---
+
+## 🚀 Principais Projetos
+Esses são alguns dos meus projetos mais representativos:
+- **projeto-clone-yu-gi-oh**: Exemplo de layout e lógica básica em HTML, CSS e JavaScript.
+*(em breve mais projetos)*
 
 ---
 

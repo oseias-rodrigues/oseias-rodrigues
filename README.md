@@ -1,4 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/oseias-rodrigues?label=Follow&style=social)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oseias-rodrigues)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
@@ -47,10 +49,11 @@ Esses são alguns dos meus projetos mais representativos:
 
 ## 📫 Contato
 📧 **Email:** oseias.rodrigues.dev@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/oseias-rodrigues
 
 ---
 
-⭐ Perfil em constante evolução, aberto a oportunidades de estágio em tecnologia.##
+⭐ Perfil em constante evolução, aberto a oportunidades de estágio em tecnologia.
 
 <!--
 **oseias-rodrigues/oseias-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
